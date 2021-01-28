@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611157554590</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="tet">
+      <created>1611861449117</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611861449117</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -94,10 +101,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="tet" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="0" key="CommitChangelistDialog2" timestamp="1611157553064">
+    <state x="378" y="0" key="CommitChangelistDialog2" timestamp="1611861447574">
       <screen x="0" y="0" width="1440" height="774" />
     </state>
-    <state x="378" y="0" key="CommitChangelistDialog2/0.0.1440.774@0.0.1440.774" timestamp="1611157553064" />
+    <state x="378" y="0" key="CommitChangelistDialog2/0.0.1440.774@0.0.1440.774" timestamp="1611861447574" />
     <state x="501" y="131" key="FileChooserDialogImpl" timestamp="1611127476832">
       <screen x="0" y="0" width="1440" height="774" />
     </state>

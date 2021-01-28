@@ -5,10 +5,12 @@ Variables   name  madhuri
 
 *** Test Cases ***
 window switch
+    [Tags]  smoke
     open browser    https://robotframework.org/     chrome
     Maximize Browser Window
     close allbrowsers
 test2
+    [Tags]  sanity
     open browser    https://robotframework.org/     chrome
     Maximize Browser Window
     close allbrowsers
